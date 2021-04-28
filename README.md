@@ -36,11 +36,15 @@
 <!-- <a href="http://motions.cat/top.html#0040"><img src="http://motions.cat/gif/nhn/0040.gif" alt="VR in the Dark!" height="195px" /></a> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuanBaby1314&show_icons=true&theme=tokyonight&hide_title=true" alt="HuanBaby1314's github stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=HuanBaby1314&show_icons=true&count_private=true" alt="HuanBaby1314's github stats" height="195px" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanBaby1314&theme=dracula&layout=compact&card_width=300" alt="JackHuan's Top Langs" height="175px" />
   <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
 </div>
 
-![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34)
+<div align="center">
+  <img src="https://count.getloli.com/get/@HuanBaby1314?theme=rule34" alt="JackHuan's Top Langs" height="175px" />
+</div>
+<!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34) -->
