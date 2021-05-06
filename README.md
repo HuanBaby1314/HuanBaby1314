@@ -1,6 +1,6 @@
 # jackhuan
 
-> Hi there 👋 I'm Jack Huan / 兔子 / 最帅的坏兔子, yet another frontend developer.
+> Hi there 👋 I'm Jack Huan / 兔子🐰 / 最帅的坏兔子, yet another frontend developer.
 
 **⚡ Every expert was once a beginner, my bro.**
 <br/>&ensp;&ensp;
