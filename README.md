@@ -16,7 +16,6 @@
 <br/>💻 Works
 <br/>&ensp;&ensp;
 [![React 中文文档](https://img.shields.io/badge/React%20中文文档-34383f?style=flat-square)](https://zh-hans.reactjs.org/)
-[![JavaScript 明星项目](https://img.shields.io/badge/JavaScript%20明星项目-E65100?style=flat-square)](https://risingstars.js.org/2019/zh)
 [![The State of JavaScript](https://img.shields.io/badge/The%20State%20of%20JavaScript-FE696A?style=flat-square)](https://2019.stateofjs.com/zh/)
 <br/>😄 Me
 <br/>&ensp;&ensp;
