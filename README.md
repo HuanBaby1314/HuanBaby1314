@@ -23,7 +23,7 @@
 [![GitHub](https://img.shields.io/badge/HuanBaby1314-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/HuanBaby1314)
 [![Email](https://img.shields.io/badge/huanxingan1314@163.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:huanxingan1314@163.com)
 
-[telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1)
+电报群: [telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1)
 
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
