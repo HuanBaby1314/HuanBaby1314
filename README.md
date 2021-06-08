@@ -24,7 +24,9 @@
 [![Email](https://img.shields.io/badge/huanxingan1314@163.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:huanxingan1314@163.com)
 
 电报群: [telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1)
-
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/25154432/110353530-1f9de280-8072-11eb-94b0-addcd8ca1ca4.png" alt="JackHuan's Top Langs" height="175px" />
+</div>
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
 <!-- https://github.com/SukkaW/SukkaW -->
@@ -52,4 +54,6 @@
 <div align="center">
   <img src="https://count.getloli.com/get/@HuanBaby1314?theme=rule34" alt="JackHuan's Top Langs" height="175px" />
 </div>
+
+
 <!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34) -->
