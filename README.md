@@ -26,6 +26,7 @@
 电报群: [telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1)
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25154432/110353530-1f9de280-8072-11eb-94b0-addcd8ca1ca4.png" alt="JackHuan's Top Langs" height="175px" />
+  <img src="https://camo.githubusercontent.com/2d545c0e1fed8ea2641988bf214de8f2bb9610b36a772b069ab1d64010fc2cd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313232396d6c7474676f386152322f67697068792e676966" alt="JackHuan's Top Langs" height="175px" />
 </div>
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
