@@ -52,9 +52,9 @@
   <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://count.getloli.com/get/@HuanBaby1314?theme=rule34" alt="JackHuan's Top Langs" height="175px" />
-</div>
+</div> -->
 
 
 <!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34) -->
