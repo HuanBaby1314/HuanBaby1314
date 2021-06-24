@@ -51,6 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanBaby1314&theme=dracula&layout=compact&card_width=300" alt="JackHuan's Top Langs" height="175px" />
   <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
 </div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HuanBaby1314/count.svg" />
+</p>
 
 <!-- <div align="left">
   <img src="https://count.getloli.com/get/@HuanBaby1314?theme=rule34" alt="JackHuan's Top Langs" height="175px" />
