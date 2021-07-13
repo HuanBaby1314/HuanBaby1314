@@ -17,11 +17,16 @@
 <br/>&ensp;&ensp;
 [![React 中文文档](https://img.shields.io/badge/React%20中文文档-34383f?style=flat-square)](https://zh-hans.reactjs.org/)
 [![The State of JavaScript](https://img.shields.io/badge/The%20State%20of%20JavaScript-FE696A?style=flat-square)](https://2019.stateofjs.com/zh/) -->
+
 <br/>😄 Me
 <br/>&ensp;&ensp;
 [![Resume](https://img.shields.io/badge/Resume-00A98F?style=flat-square&logo=About.me&logoColor=fff)](https://github.com/HuanBaby1314/resume)
 [![GitHub](https://img.shields.io/badge/HuanBaby1314-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/HuanBaby1314)
 [![Email](https://img.shields.io/badge/huanxingan1314@163.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:huanxingan1314@163.com)
+<details>
+  <summary>
+        <b>More about me</b>
+    </summary>
 
 电报群: [telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1)
 <div align="left">
@@ -62,3 +67,7 @@
 
 
 <!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34) -->
+  <p align="right">
+    Designed with :heart: by <a href="https://github.com/HuanBaby1314" target="_blank">HuanBaby1314</a>.
+</p>
+  </details>
