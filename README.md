@@ -23,7 +23,11 @@
 [![Resume](https://img.shields.io/badge/Resume-00A98F?style=flat-square&logo=About.me&logoColor=fff)](https://github.com/HuanBaby1314/resume)
 [![GitHub](https://img.shields.io/badge/HuanBaby1314-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/HuanBaby1314)
 [![Email](https://img.shields.io/badge/huanxingan1314@163.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:huanxingan1314@163.com)
-
+<div>
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+  <img src="https://user-images.githubusercontent.com/25154432/110353530-1f9de280-8072-11eb-94b0-addcd8ca1ca4.png" alt="JackHuan's Top Langs" height="240px" align="center" />
+  <img src="https://camo.githubusercontent.com/2d545c0e1fed8ea2641988bf214de8f2bb9610b36a772b069ab1d64010fc2cd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313232396d6c7474676f386152322f67697068792e676966" alt="JackHuan's Top Langs" height="240px" align="center" />
+</div>
   <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -50,16 +54,21 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanBaby1314&theme=dracula&layout=compact&card_width=300" alt="JackHuan's Top Langs" height="175px" />
+  <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
+</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HuanBaby1314/count.svg" />
+</p>
 <details>
   <summary>
         <b>More about me</b>
     </summary>
 
 电报群: [telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1)
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/25154432/110353530-1f9de280-8072-11eb-94b0-addcd8ca1ca4.png" alt="JackHuan's Top Langs" height="175px" />
-  <img src="https://camo.githubusercontent.com/2d545c0e1fed8ea2641988bf214de8f2bb9610b36a772b069ab1d64010fc2cd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313232396d6c7474676f386152322f67697068792e676966" alt="JackHuan's Top Langs" height="175px" />
-</div>
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
 <!-- https://github.com/SukkaW/SukkaW -->
@@ -79,14 +88,6 @@
   <img src="https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=HuanBaby1314&show_icons=true&count_private=true" alt="HuanBaby1314's github stats" height="195px" />
 </div> -->
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanBaby1314&theme=dracula&layout=compact&card_width=300" alt="JackHuan's Top Langs" height="175px" />
-  <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
-</div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/HuanBaby1314/count.svg" />
-</p>
 
 <!-- <div align="left">
   <img src="https://count.getloli.com/get/@HuanBaby1314?theme=rule34" alt="JackHuan's Top Langs" height="175px" />
@@ -94,7 +95,8 @@
 
 
 <!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34) -->
-  <p align="right">
+ 
+  </details>
+   <p align="right">
     Designed with :heart: by <a href="https://github.com/HuanBaby1314" target="_blank">HuanBaby1314</a>.
 </p>
-  </details>
