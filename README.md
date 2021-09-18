@@ -97,6 +97,13 @@
 <!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34) -->
  
   </details>
+  <!-- <div align="center">
+    <img src="https://img.halfrost.com/Blog/ArticleTitleImage/footer_bg.png" alt="HuanBaby1314's github stats" height="195px" style="position: absolute" />
+    <img src="https://img.halfrost.com/Blog/ArticleTitleImage/1.gif" alt="HuanBaby1314's github stats" height="195px"  />
+    <img src="https://img.halfrost.com/Blog/ArticleTitleImage/2.gif" alt="HuanBaby1314's github stats" height="195px"  />
+    <img src="https://img.halfrost.com/Blog/ArticleTitleImage/3.gif" alt="HuanBaby1314's github stats" height="195px"  />
+    <img src="https://img.halfrost.com/Blog/ArticleTitleImage/4.gif" alt="HuanBaby1314's github stats" height="195px"  />
+  </div> -->
    <p align="right">
     Designed with :heart: by <a href="https://github.com/HuanBaby1314" target="_blank">HuanBaby1314</a>.
 </p>
