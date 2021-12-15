@@ -63,12 +63,12 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HuanBaby1314/count.svg" />
 </p>
-<details>
+<!-- <details>
   <summary>
         <b>More about me</b>
     </summary>
 
-电报群: [telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1)
+电报群: [telegram](https://t.me/joinchat/rBzv-b5q5XVIN2Y1) -->
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
 <!-- https://github.com/SukkaW/SukkaW -->
@@ -94,9 +94,9 @@
 </div> -->
 
 
-<!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34) -->
+<!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34)
  
-  </details>
+  </details> -->
   <!-- <div align="center">
     <img src="https://img.halfrost.com/Blog/ArticleTitleImage/footer_bg.png" alt="HuanBaby1314's github stats" height="195px" style="position: absolute" />
     <img src="https://img.halfrost.com/Blog/ArticleTitleImage/1.gif" alt="HuanBaby1314's github stats" height="195px"  />
