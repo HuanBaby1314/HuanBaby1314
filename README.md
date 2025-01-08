@@ -25,7 +25,7 @@
 [![Email](https://img.shields.io/badge/huanxingan1314@163.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:huanxingan1314@163.com)
 <div>
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-  <img src="https://user-images.githubusercontent.com/25154432/110353530-1f9de280-8072-11eb-94b0-addcd8ca1ca4.png" alt="JackHuan's Top Langs" height="240px" align="center" />
+<!--   <img src="https://user-images.githubusercontent.com/25154432/110353530-1f9de280-8072-11eb-94b0-addcd8ca1ca4.png" alt="JackHuan's Top Langs" height="240px" align="center" /> -->
   <img src="https://camo.githubusercontent.com/2d545c0e1fed8ea2641988bf214de8f2bb9610b36a772b069ab1d64010fc2cd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313232396d6c7474676f386152322f67697068792e676966" alt="JackHuan's Top Langs" height="240px" align="center" />
 </div>
   <div>
