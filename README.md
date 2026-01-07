@@ -1,6 +1,6 @@
 # jackhuan
 
-> :art: Hi there 👋 I'm Jack Huan / 兔子🐰 / 最帅的坏兔子, yet another frontend developer.
+> :art: Hi there 👋 I'm Jack Huan / 兔子🐰 / 最帅的坏兔子, yet another frontend developer. [Javascript rising stars 9th Chinese Language translator](https://risingstars.js.org/2024/zh)
 
 **⚡ Every expert was once a beginner, my bro.**
 <br/>&ensp;&ensp;
@@ -56,7 +56,6 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanBaby1314&theme=dracula&layout=compact&card_width=300" alt="JackHuan's Top Langs" height="175px" />
   <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
 </div>
 <!-- <details>
@@ -83,12 +82,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=HuanBaby1314&show_icons=true&count_private=true" alt="HuanBaby1314's github stats" height="195px" />
 </div> -->
-
-
-<!-- <div align="left">
-  <img src="https://count.getloli.com/get/@HuanBaby1314?theme=rule34" alt="JackHuan's Top Langs" height="175px" />
-</div> -->
-
 
 <!-- ![tuzimoe](https://count.getloli.com/get/@HuanBaby1314?theme=rule34)
  
