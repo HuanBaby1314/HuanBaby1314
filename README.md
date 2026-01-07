@@ -1,6 +1,6 @@
 # jackhuan
 
-> :art: Hi there 👋 I'm Jack Huan / 兔子🐰 / 最帅的坏兔子, yet another frontend developer. [Javascript rising stars 9th Chinese Language translator](https://risingstars.js.org/2024/zh)
+> :art: Hi there 👋 I'm Jack Huan / 兔子🐰 / 最帅的坏兔子, yet another frontend developer. [Javascript rising stars 9th&10th Chinese Language translator](https://risingstars.js.org/2025/zh)
 
 **⚡ Every expert was once a beginner, my bro.**
 <br/>&ensp;&ensp;
