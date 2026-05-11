@@ -97,6 +97,7 @@
     Designed with :heart: by <a href="https://github.com/HuanBaby1314" target="_blank">HuanBaby1314</a>.
 </p>
 请我喝杯瑞幸吧！
-<img width="200" alt="6e745407a7fac6efc0c1007d5e9eb445" src="https://github.com/user-attachments/assets/b3819f2e-4c88-40f6-af0e-47924170c17f" />
-<img width="200" alt="947982734ebbadec08bebe3ff999d72b" src="https://github.com/user-attachments/assets/10e6c704-7b78-4c2a-acd1-59f76ed99daa" />
+<img width="200" alt="支付宝赞赏" src="https://github.com/user-attachments/assets/95175d2a-7887-478b-aa5b-1ff3e9b33b7d" />
+
+<img width="200" alt="微信赞赏" src="https://github.com/user-attachments/assets/10e6c704-7b78-4c2a-acd1-59f76ed99daa" />
 
